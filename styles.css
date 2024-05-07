@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: flex-end;
     background-color: #1a1a1a;
-    overflow: auto; 
+    overflow: scroll; 
 }
 
 #terminal {
