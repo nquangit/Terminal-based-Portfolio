@@ -26,9 +26,6 @@ window.addEventListener('resize', function () {
     // Get current size
     let currentWidth = window.innerWidth;
     let currentHeight = window.innerHeight;
-    console.log(previousWidth, previousHeight);
-    console.log("Current size");
-    console.log(currentWidth, currentHeight);
 
     let reload = false;
     // Check if the window width is less than 800px

@@ -8,12 +8,10 @@ body {
     justify-content: center;
     align-items: flex-end;
     background-color: #1a1a1a;
-    height: 100vh;
+    overflow: auto; 
 }
 
 #terminal {
-    border-radius: 0.5rem;
-    overflow: auto;
     width: 830px;
     min-width: 500px;
     background-color: #1a1a1a!important;
